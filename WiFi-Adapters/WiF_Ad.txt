@@ -1,3 +1,17 @@
-TP_Link - AC600 :
-	Frequency : 
-	Model : 
+
+
+TpLink_Ac600.sh :
+	Manufacturer : tp-link
+	Model : AC600
+	Specific name : Archer T2U Plus
+	Description :	High gain wireless
+			Dual band USB adapter
+	Frequency : - 433Mbps on standard IEEE 802.11a/n/ac 5.0GHz
+		    - 200Mbps on standard IEEE 802.11b/g/n 2.4GHz
+	Security : - WEP
+		   - WPA / WPA2
+		   - WPA-PSK / WPA2-PSK
+	Interface : USB 2.0
+	OS Supported :	- Linux (through cmd line), 
+			- OS, Windows (through a CD associated to the adapter)
+
