@@ -5,6 +5,7 @@ It's more for a personal usage, but feel free to look at it.
 
 ## Drivers
 * [WiFi-Adapters](WiFi-Adapters/WiF_Ad.txt)
+	* **tp-link** : AC600 - Archer T2U Plus
 
 ## Additional commands
 * [Fancy ones ..]()
