@@ -4,7 +4,7 @@ Repository containing scripts to install certain features, such as WiFi adapters
 It's more for a personal usage, but feel free to look at it.
 
 ## Drivers
-* [WiFi-Adapters](WiFi-Adapters)
+* [WiFi-Adapters](WiFi-Adapters/WiF_Ad.txt)
 
 ## Additional commands
 * [Fancy ones ..]()
