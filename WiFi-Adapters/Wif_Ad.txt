@@ -1,6 +1,6 @@
 
 TpLink_Ac600.sh :
-	Manufacturer : tp-link
+	Manufacturer : TP-LINK
 	Model : AC600
 	Specific name : Archer T2U Plus
 	Description :	High gain wireless
