@@ -16,7 +16,5 @@ It's more for a personal usage, but feel free to look at it.
 
 
 
-[//]: # (Boom)  
-
-
-[//]: # (Given by Soraya as my test subject x)  )  
+<!--- Boom --->
+<!--- Given by Soraya as my test subject x) --->
