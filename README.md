@@ -1,4 +1,4 @@
-# Unix-BaseInstall
+# unixDistros-DevicesInstall
 Repository containing scripts to install certain features, such as WiFi adapters, Additional cmd, etc-etc ... 
 
 It's more for a personal usage, but feel free to look at it.
@@ -17,5 +17,6 @@ It's more for a personal usage, but feel free to look at it.
 
 
 [//]: # (Boom)  
+
 
 [//]: # (Given by Soraya as my test subject x)  )  
