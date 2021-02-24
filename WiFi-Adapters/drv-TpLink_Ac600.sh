@@ -23,7 +23,8 @@ else
 fi
 
 # Change directory to MY need (comment or modify this line to YOUR need):
-cd ~/Documents/AddOn_InstallRep
+mkdir ~/Documents AddOn_InstallDir
+cd ~/Documents/AddOn_InstallDir
 
 # "git clone .." to get drivers from github src.
 echo "git clone https://github.com/aircrack-ng/rtl8812au.git"
