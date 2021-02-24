@@ -1,5 +1,5 @@
 
-*TpLink_Ac600.sh :* [tp-link AC600](drv-TpLink_Ac600.sh)
+TpLink_Ac600.sh :
 	Manufacturer : tp-link
 	Model : AC600
 	Specific name : Archer T2U Plus
