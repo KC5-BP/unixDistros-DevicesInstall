@@ -24,7 +24,7 @@ fi
 
 # Change directory to MY need (comment or modify this line to YOUR need):
 echo "Directory management : Creating and moving to the installation folder .."
-mkdir ~/Documents AddOn_InstallDir
+mkdir ~/Documents/AddOn_InstallDir
 cd ~/Documents/AddOn_InstallDir
 
 # "git clone .." to get drivers from github src.
