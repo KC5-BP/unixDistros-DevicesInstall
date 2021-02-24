@@ -5,7 +5,6 @@
 # only if they're not already installed.
 # "git"  : Versionning control stuffs ..
 # "dkms" : for  Dynamic Kernel Module Support -> framework used for Linux Kernel modules dev. .
-
 if ! command -v git  &> /dev/null
 then
 	echo "Cmd git not installed, so install cmd launch now ..."

@@ -4,7 +4,6 @@
 # Installing "git" cmd through basic repository,
 # only if they're not already installed.
 # "git"  : Versionning control stuffs ..
-
 if ! command -v git  &> /dev/null
 then
 	echo "Cmd git not installed, so install cmd launch now ..."

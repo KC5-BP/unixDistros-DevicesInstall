@@ -1,4 +1,7 @@
-# ROTATTING Screen
+## Process reference got from :
+## '-> github.com/goodtft/LCD-show
+
+# <------------------------------------ ROTATING screen -------------------------------------->
 ## Process reference got from :
 ## '-> www.lcdwiki.com/MHS-3.5inch_RPi_Display
 
@@ -13,7 +16,7 @@ sudo ./rotate.sh 90
 #sudo ./rotate.sh 270
 
 
-# Calibrating screen (only for Resistance Touch Screen)
+# <------------------ CALIBRATING screen (only for Resistance Touch Screen) ------------------>
 ## Process reference got from :
 ## '-> www.lcdwiki.com/res/PublicFile/How_to_calibrate_the_resistance_touch_screen-V1.2.pdf
 
