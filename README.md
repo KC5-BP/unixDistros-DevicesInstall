@@ -5,10 +5,10 @@ It's more for a personal usage, but feel free to look at it.
 
 ## Drivers
 * [WiFi-Adapters](WiFi-Adapters/Wif_Ad.txt)
-	* **tp-link** : AC600 / Archer T2U Plus
+	* **TP-LINK** : AC600 / Archer T2U Plus
 
-* [Display](Display/Dis.txt)
-	* **kuman** : MHS-3.5inch / TFT-RPi Display
+* [Display](Display/Disp.txt)
+	* **KUMAN** : MHS-3.5inch / TFT-RPi Display
 
 ## Additional commands
 * [Fancy ones ..](Fancy-Cmds/)
