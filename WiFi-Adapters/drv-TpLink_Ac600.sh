@@ -7,18 +7,18 @@
 # "dkms" : for  Dynamic Kernel Module Support -> framework used for Linux Kernel modules dev. .
 if ! command -v git  &> /dev/null
 then
-	echo "Cmd git not installed, so install cmd launch now ..."
+	echo "Cmd < git > not installed, so install cmd launch now ..."
 	sudo apt install -y git
 else
-	echo "Cmd git already installed, installation step skipped for this."
+	echo "Cmd < git > already installed, installation step skipped for this."
 fi
 
 if ! command -v dkms  &> /dev/null
 then
-	echo "Cmd dkms not installed, so install cmd launch now ..."
+	echo "Cmd < dkms > not installed, so install cmd launch now ..."
 	sudo apt install -y dkms
 else
-	echo "Cmd dkms already installed, installation step skipped for this."
+	echo "Cmd < dkms > already installed, installation step skipped for this."
 fi
 
 # Change directory to MY need (comment or modify this line to YOUR need):
