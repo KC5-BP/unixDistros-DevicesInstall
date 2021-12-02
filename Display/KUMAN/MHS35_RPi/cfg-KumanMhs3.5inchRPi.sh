@@ -33,6 +33,12 @@ DISPLAY=:0.0 xinput-calibrator
 echo "Save calibration values .."
 sudo nano /etc/X11/xorg.conf.d/99-calibration.conf
 
+
+# <------------------------------- SWITCH Back to HDMI monitor ------------------------------->
+sudo ./LCD-hdmi
+
+
+
 echo "System will reboot to apply changes !"
 sleep 7s
 sudo reboot
